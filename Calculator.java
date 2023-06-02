@@ -185,4 +185,20 @@ public class Calculator {
 
     }
 
+    public static void testCalculate() {
+        List<Float> sabirci = new ArrayList<>();
+        List<String> operacije = new ArrayList<>();
+        sabirci.add(12f);
+        sabirci.add(2f);
+        operacije.add("*");
+        double ocekivaniRezultat = 6.0;
+
+        Calculate(sabirci, operacije);
+    
+        if(ocekivaniRezultat == finalResult){
+            System.out.println("Test je uspesan");
+        } else {
+            System.out.println("Test je neuspesan");
+        }
+    }
 }
