@@ -1,0 +1,5 @@
+Nedostaci:
+
+1. Kalkulator ne podržava izraze napisane u zagradama. Zbog toga neki duzi izrazi mogu da budu nepregledni.Moć
+2. Bilo bi u redu da se dodaju neke pojedine funkcije za računanje nekih vrednosti koje se češće koriste, a mogu da posluže kao brži način za dobijanje rezultata. Npr. funkcije za izračunavanje kvadrata broja, korena nekog broja, apsoulutne vrednosti itd.
+3. Mogle bi da se dodaju opšte poznate konstante (e, pi...)
